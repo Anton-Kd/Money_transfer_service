@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  MoneyTransfer:
+    build: .
+    image: transferapp:1.0
+    ports:
+      - "5500:5500"
+

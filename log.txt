@@ -1,0 +1,12 @@
+[18 авг. 2025 г.:16.31.58.446731400] Transfer MoneyTransfer -> amount: 12000.0 RUR commission: 120.0 RUR/ cardFromNumber: 1213231231231231, cardFromValidTill='12/25'/ cardToNumber: 3434343434343434
+[18 авг. 2025 г.:16.31.58.481024600] Confirm: operationId='1, code=0000
+[18 авг. 2025 г.:16.32.54.601306300] Transfer MoneyTransfer -> amount: 2000.0 RUR commission: 20.0 RUR/ cardFromNumber: 2131232132131231, cardFromValidTill='12/25'/ cardToNumber: 6786796775645234
+[18 авг. 2025 г.:16.32.54.610301300] Confirm: operationId='2, code=0000
+[18 авг. 2025 г.:16.33.45.533682200] Transfer MoneyTransfer -> amount: 10.0 USD commission: 0.0 USD/ cardFromNumber: 1111222233334444, cardFromValidTill='12/25'/ cardToNumber: 1111222233335555
+[18 авг. 2025 г.:16.34.02.285848500] Confirm: operationId='2, code=0000
+[18 авг. 2025 г.:16.34.08.147015100] Confirm: operationId='3, code=0000
+[18 авг. 2025 г.:16.34.12.588297000] Error confirm: MoneyTransfer -> amount: 10.0 USD commission: 0.0 USD/ cardFromNumber: 1111222233334444, cardFromValidTill='12/25'/ cardToNumber: 1111222233335555
+[18 авг. 2025 г.:16.34.17.908999700] Error  errorConfirm : operationId='5, code=0001
+[18 авг. 2025 г.:16.34.40.138741200] Transfer MoneyTransfer -> amount: 10.0 USD commission: 0.0 USD/ cardFromNumber: 1111222233334444, cardFromValidTill='12/25'/ cardToNumber: 1111222233335555
+[18 авг. 2025 г.:16.37.30.618180900] Confirm: operationId='3, code=0000
+[18 авг. 2025 г.:16.38.19.465742600] Error confirm : operationId='7, code=0000
