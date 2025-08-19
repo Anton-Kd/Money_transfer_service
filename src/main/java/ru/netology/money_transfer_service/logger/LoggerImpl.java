@@ -13,7 +13,7 @@ public class LoggerImpl implements Logger {
 
     private LoggerImpl() {
         try {
-            writer = new FileWriter("log.txt", true);
+            writer = new FileWriter("src\\main\\resources\\log.txt", true);
         } catch (IOException e) {
             e.printStackTrace();
         }

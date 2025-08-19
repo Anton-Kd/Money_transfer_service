@@ -13,8 +13,8 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 @RestControllerAdvice
 public class ExceptionHandlerAdvice {
-    Logger logger;
-    AtomicInteger errorId;
+    protected Logger logger;
+    protected AtomicInteger errorId;
 
     public ExceptionHandlerAdvice() {
         logger = LoggerImpl.getInstance();

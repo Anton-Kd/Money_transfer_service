@@ -2,7 +2,10 @@ version: "3"
 
 services:
   MoneyTransfer:
-    build: .
+    build:
+      context: .
+      args:
+        DOCKER_BUILDKIT: 1
     image: transferapp:1.0
     ports:
       - "5500:5500"

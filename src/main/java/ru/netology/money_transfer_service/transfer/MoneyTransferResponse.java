@@ -11,6 +11,7 @@ public class MoneyTransferResponse {
     public MoneyTransferResponse() {
 
     }
+
     public MoneyTransferResponse(String operationId) {
         this.operationId = operationId;
     }
